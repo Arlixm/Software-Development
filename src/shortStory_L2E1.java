@@ -1,5 +1,5 @@
 import java.util.*;
-public class shortStory {
+public class shortStory_L2E1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your name: ");

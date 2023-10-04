@@ -1,5 +1,5 @@
 import java.util.*;
-    public class Interation1 {
+    public class timesTables_L5E1 {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
             System.out.print("Enter a number that you want to multiply: ");
